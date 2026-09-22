@@ -19,6 +19,9 @@ ABSTRACT:
 The InterCity Bus Reservation System is a simple Java-based project developed to make bus ticket booking easier and more organized. The system allows users to choose their preferred route, travel date, bus, and seats from a 60-seat layout. It shows which seats are available and prevents users from booking seats that have already been selected. Users can also book more than one seat if required. After selecting the seats, the system asks for the customer’s name and phone number and uses an OTP for basic booking verification. Once the OTP is entered correctly, the system displays the booking details and generates a final e-ticket. The project also helps demonstrate basic Java concepts such as arrays, methods, loops, conditional statements, switch-case, and user input.
 
 
+
+
+
 Project Objectives:
 To develop a simple and user-friendly bus ticket reservation system using Java.
 
@@ -37,6 +40,11 @@ To verify the booking using an OTP.
 To generate and display a final e-ticket with complete booking details.
 
 To apply basic Java concepts such as arrays, methods, loops, conditions, switch-case, and user input.
+
+
+
+
+
 
 
 
