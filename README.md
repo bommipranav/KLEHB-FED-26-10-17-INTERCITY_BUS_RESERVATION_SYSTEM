@@ -45,23 +45,35 @@ To apply basic Java concepts such as arrays, methods, loops, conditions, switch-
 
 
 
-
+     
 
 
 
 
 Execution Instructions
+
 Open Notepad / VS Code 
+
 Copy the complete Java code.
-Save the file as:
-InterCityBus.java
+
+Save the file as:InterCityBus.java 
+
 Open Command Prompt in the folder where the file is saved.
+
 Compile the program:
+
 Follow the options shown on screen:
+
 Select Route Number (1–5).
+
 Select Travel Date (1–5).
+
 Select Bus (1–2).
+
 Select a Seat Number (1–60).
+
+
+
 Confirm booking with Y/N.
 Choose whether to book another seat.
 Enter Customer Name.
