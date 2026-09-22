@@ -45,7 +45,7 @@ To apply basic Java concepts such as arrays, methods, loops, conditions, switch-
 
 
 
-     
+---------------------------------------------------------------------------------------------     
 
 
 
@@ -72,10 +72,19 @@ Select Bus (1–2).
 
 Select a Seat Number (1–60).
 
-
-
 Confirm booking with Y/N.
+
 Choose whether to book another seat.
+
 Enter Customer Name.
+
 Enter Phone Number.
+
 Enter OTP: 1234.
+-------------------------------------------------------------------------------
+
+
+Execution Instructions:
+
+javac InterCityBus.java
+java InterCityBus
